@@ -8,6 +8,7 @@
 
 Project.create(title: 'Developer Portfoilo', proj_img: 'https://reactstrap.github.io/assets/logo.png', tools: 'React, Rails, Devise, JWT Token, Redux')
 puts 'MJM: seeds.rb: Created 1 Project Seed Data'
+
 10.times do |blog|
   Blog.create(
       title: "My Blog Post #{blog}",
@@ -15,3 +16,11 @@ puts 'MJM: seeds.rb: Created 1 Project Seed Data'
     )
 end
 puts 'MJM: Seeds.rb: created 10 blog posts'
+
+3.times do |testimonial|
+  Testimonial.create(
+      name: "3JMCoding",
+      quote: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
+  )
+end
+puts 'MJM: seeds.rb: created 3 testimonials'
