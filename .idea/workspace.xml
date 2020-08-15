@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5dd4da0-075b-483f-9ac5-315dcf6bad95" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/bundle" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bundle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/rails" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rails" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/rake" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rake" afterDir="false" />
@@ -132,6 +133,7 @@
       <workItem from="1596850873721" duration="1547000" />
       <workItem from="1597109471450" duration="3801000" />
       <workItem from="1597122664316" duration="2612000" />
+      <workItem from="1597533947320" duration="184000" />
     </task>
     <servers />
   </component>
